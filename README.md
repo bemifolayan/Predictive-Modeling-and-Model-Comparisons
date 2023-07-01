@@ -1,8 +1,6 @@
-# Homework 9
+# Predictive Modeling and Model Comparisons
 
-Make sure to be careful when pushing and pulling to avoid merge conflicts with your partner!
-
-A few instructions:
+A detailed explorations of Data models that helps decide the best tool to decipeher the correlation between elements of housing data
 
 1. Make sure to clone this repo to your computer. 
 2. Make sure you take a look at the extended directions on Canvas
